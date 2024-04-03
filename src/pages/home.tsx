@@ -58,6 +58,8 @@ Home.get('/', (c) => {
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
         <script src="https://cdn.tailwindcss.com" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1828915420581549"
+     crossorigin="anonymous"></script>
         <style
           dangerouslySetInnerHTML={{
             __html: `
